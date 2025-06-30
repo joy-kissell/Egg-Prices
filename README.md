@@ -12,7 +12,7 @@
 Source: U.S. Bureau of Labor Statistics (CPI Average Price Data)
 
 ## Preview
-![dashboard-screenshot](img/dashboard_preview.png)
+![dashboard-screenshot](img/dashboard_preview.png.png)
 
 ## How to Use
 - Download the `.pbix` file
